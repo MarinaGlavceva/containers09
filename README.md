@@ -256,7 +256,7 @@ docker container rm mynginx
 
 ## Таблица размеров образов
 
-
+![Image](https://github.com/user-attachments/assets/ee3cd185-3803-4846-8ced-3312d8fc45e5)
 ---
 
 ## Ответы на вопросы
